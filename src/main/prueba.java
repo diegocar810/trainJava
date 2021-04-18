@@ -12,4 +12,7 @@ public class prueba {
     public String getTest2() {
         return test2;
     }
+    
+    String mensaje = "Hola monito gracias por colaborarme en esto tan engorroso";
+    
 }
